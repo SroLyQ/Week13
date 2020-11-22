@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\VisualStudioCode\Week13\Week13-1\Week13-1\Source.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\VisualStudioCode\Week13\Week13-1\Week13-1\Source.cpp(26,32): warning C4018: '<': signed/unsigned mismatch
+  Week13-1.vcxproj -> C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\VisualStudioCode\Week13\Week13-1\Debug\Week13-1.exe
